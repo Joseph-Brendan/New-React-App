@@ -42,3 +42,23 @@
   font-weight: 500;
   color: #181818;
 }
+
+button {
+  padding: 1rem;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.yes{
+  background-color: lightgrey;
+  color: #1e1e1e;
+  text-decoration: underline;
+  padding: 1rem;
+}
+
+.no{
+  background-color: lightcoral;
+  color: darkred;
+  text-decoration: line-through;
+}
